@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:en.wikiquote.org)",
+      "Bash(open http://localhost:5174)",
+      "Bash(screencapture -x /tmp/cinequote2.png)"
+    ]
+  }
+}
